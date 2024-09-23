@@ -6,7 +6,7 @@
 🔍 Currently exploring react.js, Next.js & Backend developement  
 🧩 Finding kick in creating picture perfect & buttery smooth web apps  
 
-#### FrontEnd Developer @ [DashClicks](www.dashclicks.com)
+#### FrontEnd Developer @ [DashClicks](https://www.dashclicks.com/)
 ### My Weapons
 <div>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>

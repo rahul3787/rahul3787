@@ -7,6 +7,11 @@
 🧩 Finding kick in creating picture perfect & buttery smooth web apps  
 
 #### FrontEnd Developer @ [DashClicks](https://www.dashclicks.com/)
+
+**Work Account**: [@rahulchauhan3787](https://github.com/rahulchauhan3787) 
+
+![Work Contributions](https://ghchart.rshah.org/rahulchauhan3787)
+
 ### My Weapons
 <div>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>

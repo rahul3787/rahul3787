@@ -1,4 +1,4 @@
-## Frontend Developer having 3.5+ years of experience, passionate about crafting remarkable user experiences through clean and efficient code.
+## Frontend Developer having 4.5+ years of experience, passionate about crafting remarkable user experiences through clean and efficient code.
 ### About Me
 💥 Breaking code since 2016  
 🎓 B.Tech (CSE) graduate  

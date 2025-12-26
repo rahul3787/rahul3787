@@ -1,4 +1,4 @@
-## Frontend Developer having 4.5+ years of experience, passionate about crafting remarkable user experiences through clean and efficient code.
+## Senior Frontend Developer having 4.5+ years of experience, passionate about crafting remarkable user experiences through clean and efficient code.
 ### About Me
 💥 Breaking code since 2016  
 🎓 B.Tech (CSE) graduate  
@@ -6,7 +6,7 @@
 🔍 Currently exploring react.js, Next.js & Backend developement  
 🧩 Finding kick in creating picture perfect & buttery smooth web apps  
 
-#### FrontEnd Developer @ [DashClicks](https://www.dashclicks.com/)
+#### Senior Frontend Developer @ [DashClicks](https://www.dashclicks.com/)
 
 **Work Account**: [@rahulchauhan3787](https://github.com/rahulchauhan3787) 
 
